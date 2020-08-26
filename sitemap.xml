@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://waelef.github.io/Wael_El_Ferchichi/about/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://waelef.github.io/Wael_El_Ferchichi/blog/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://waelef.github.io/Wael_El_Ferchichi/portfolio/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://waelef.github.io/Wael_El_Ferchichi/</loc>
+    <lastmod>2018-11-23T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://waelef.github.io/Wael_El_Ferchichi/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://waelef.github.io/Wael_El_Ferchichi/tags/</loc>
+  </url>
+  
+</urlset>
