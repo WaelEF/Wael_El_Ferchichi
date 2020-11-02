@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolio on Wael El Ferchichi</title>
+    <title>Projects on Wael El Ferchichi</title>
     <link>https://waelef.github.io/Wael_El_Ferchichi/portfolio/</link>
-    <description>Recent content in Portfolio on Wael El Ferchichi</description>
+    <description>Recent content in Projects on Wael El Ferchichi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate>
     
 	<atom:link href="https://waelef.github.io/Wael_El_Ferchichi/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Value at Risk Shiny Application</title>
+      <link>https://waelef.github.io/Wael_El_Ferchichi/portfolio/projet-value-at-risk/</link>
+      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://waelef.github.io/Wael_El_Ferchichi/portfolio/projet-value-at-risk/</guid>
+      <description>Introduction I created this application as part of a school project which goal was to apply Finance courses with programming in order to produce a fluid understandable dashboard that provides information about the Tunisian stock market and calculate the Value at Risk (VaR), given a certain portfolio composed by the user, through mulitple methods.
+You are free to try creating a portfolio and browse the shinyapp at the top of this page if you wish to discover its features.</description>
+    </item>
     
   </channel>
 </rss>
